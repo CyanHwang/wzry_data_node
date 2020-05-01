@@ -1,6 +1,9 @@
 #MacOS
 .DS_Store
 
+#upload file
+uploads/
+
 # Logs
 logs
 *.log
